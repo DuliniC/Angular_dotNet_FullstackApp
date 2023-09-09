@@ -1,0 +1,29 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+FullStackUI/FullStack.UI/dist
+FullStackUI/FullStack.UI/tmp
+FullStackUI/FullStack.UI/out-tsc
+
+# dependencies
+FullStackUI/FullStack.UI/node_modules
+
+# IDEs and editors
+FullStackUI/FullStack.UI/.idea
+FullStackUI/FullStack.UI/.project
+FullStackUI/FullStack.UI/.classpath
+FullStackUI/FullStack.UI/.c9/
+*.launch
+FullStackUI/FullStack.UI/.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+FullStackUI/FullStack.UI/.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+FullStackUI/FullStack.UI/.angular/cache
+
