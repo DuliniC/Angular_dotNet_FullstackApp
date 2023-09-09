@@ -1,5 +1,5 @@
-# Angular_dotNet_FullstackApp -Employee app with CRUD 
-A guided project was done with ASP.NET and Angular by following a YouTube video: https://youtu.be/CdE6rVfPJ9I?si=t0wFCHXRHWpowwTj
+# Angular, ASP.NET Web API, MSSQL, Entity Framework core, Bootstrap
+A guided project was done by following a YouTube video: https://youtu.be/CdE6rVfPJ9I?si=t0wFCHXRHWpowwTj
 
 APIs:
 ![image](https://github.com/DuliniC/Angular_dotNet_FullstackApp/assets/97654533/3eee6eb4-265e-456a-ab2a-e2db239c4b30)
