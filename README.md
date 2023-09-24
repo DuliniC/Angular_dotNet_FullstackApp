@@ -1,6 +1,6 @@
 # Angular, ASP.NET Web API, MSSQL, Entity Framework core, Bootstrap
 Description:
-Our Employee Management Application is a robust and user-friendly web-based system that simplifies the process of managing employee information within an organization. Leveraging the power of Angular, ASP.NET Web API, MSSQL, Entity Framework Core, and Bootstrap, this application streamlines employee data operations, including adding, updating, deleting, and retrieving employee records.
+This Employee Management Application is a robust and user-friendly web-based system. Leveraging the power of Angular, ASP.NET Web API, MSSQL, Entity Framework Core, and Bootstrap, this application streamlines employee data operations, including adding, updating, deleting, and retrieving employee records.
 
 Employee CRUD Operations: 
 Our app allows authorized users to perform all essential CRUD operations on employee data. Here's how each operation works:
